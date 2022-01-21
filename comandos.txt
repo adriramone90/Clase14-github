@@ -1,0 +1,20 @@
+INICIAR UN NUEVO REPOSITORIO LOCAL
+abrir git en la carpeta y escribir
+git init
+
+CONOCER ESTADO DE REPOSITORIO
+git status
+
+AGREGAR ARCHIVO AL REPOSITORIO
+(git los detcta en el repositorio pero hay que agregarlos)
+git add <file>
+
+AGREGAR TODOS LOS CAMBIOS QUE SE GENERAN (TODOS LOS ARCHIVOS)
+git add .
+
+COMMIT PERMITE ROTULAR EL CAMBIO QUE SE REALIZO
+git commit -m "se modifico tal cosa"
+
+COMANDOS QUE PERMITEN IDENTIFICAR QUIEN REALIZO LOS CAMBIOS
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
