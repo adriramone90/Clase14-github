@@ -18,3 +18,10 @@ git commit -m "se modifico tal cosa"
 COMANDOS QUE PERMITEN IDENTIFICAR QUIEN REALIZO LOS CAMBIOS
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
+
+LOG PERMITE VERIFICAR QUIEN Y CUANDO REALIZO LOS CAMBIOS
+git log
+
+ENLAZAR REPO LOCAL CON REMOTO
+git remote add origin https://github.com/adriramone90/Clase14-github.git
+
