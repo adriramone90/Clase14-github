@@ -25,3 +25,5 @@ git log
 ENLAZAR REPO LOCAL CON REMOTO
 git remote add origin https://github.com/adriramone90/Clase14-github.git
 
+AGREGAR ARCHIVOS DE LOCAL A REMOTO
+git push origin master
