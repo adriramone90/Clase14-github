@@ -19,6 +19,10 @@ COMANDOS QUE PERMITEN IDENTIFICAR QUIEN REALIZO LOS CAMBIOS
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 
+VER EL USUARIO Y MAIL ACTIVO
+git config user.mail
+git config user.name
+
 LOG PERMITE VERIFICAR QUIEN Y CUANDO REALIZO LOS CAMBIOS
 git log
 
